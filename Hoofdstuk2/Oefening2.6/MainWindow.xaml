@@ -1,0 +1,14 @@
+﻿<Window x:Class="Oefening2._6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening2._6"
+        mc:Ignorable="d"
+        Title="Oefening2.6" Height="440" Width="440">
+    <Grid Background="DimGray">
+        <Label Name="label" Content="Naam:" HorizontalAlignment="Center" Margin="-190, 15,0,0" VerticalAlignment="center" HorizontalContentAlignment="Center" Width="50"/>
+        <TextBox Name="textBox" HorizontalAlignment="Left" Margin="150,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" Height="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextAlignment="Center" KeyDown="TextBox_KeyDown" KeyUp="TextBox_KeyUp" GotFocus="textBox_GotFocus"/>
+        <TextBlock Name="textBlock" HorizontalAlignment="Center" Margin="0,80,0,0" TextWrapping="Wrap" Text="Dit is een TextBlock" VerticalAlignment="Center" Background="Green"/>
+    </Grid>
+</Window>
