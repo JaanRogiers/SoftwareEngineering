@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineeringCsharpOne\\Hoofdstuk6\\DemoInClassTwo\\DemoInClassTwo.csproj",
+      "projectUniqueName": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineering\\Csharp1\\Hoofdstuk6\\DemoInClassTwo\\DemoInClassTwo.csproj",
       "projectName": "DemoInClassTwo",
-      "projectPath": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineeringCsharpOne\\Hoofdstuk6\\DemoInClassTwo\\DemoInClassTwo.csproj",
+      "projectPath": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineering\\Csharp1\\Hoofdstuk6\\DemoInClassTwo\\DemoInClassTwo.csproj",
       "packagesPath": "C:\\Users\\jaanr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineeringCsharpOne\\Hoofdstuk6\\DemoInClassTwo\\obj\\",
+      "outputPath": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineering\\Csharp1\\Hoofdstuk6\\DemoInClassTwo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

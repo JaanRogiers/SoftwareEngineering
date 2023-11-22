@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineeringCsharpOne\\Hoofdstuk6\\DemoInClass\\DemoInClassOne.csproj": {}
+    "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineering\\Csharp1\\Hoofdstuk6\\DemoInClass\\DemoInClassOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineeringCsharpOne\\Hoofdstuk6\\DemoInClass\\DemoInClassOne.csproj": {
+    "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineering\\Csharp1\\Hoofdstuk6\\DemoInClass\\DemoInClassOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineeringCsharpOne\\Hoofdstuk6\\DemoInClass\\DemoInClassOne.csproj",
+        "projectUniqueName": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineering\\Csharp1\\Hoofdstuk6\\DemoInClass\\DemoInClassOne.csproj",
         "projectName": "DemoInClassOne",
-        "projectPath": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineeringCsharpOne\\Hoofdstuk6\\DemoInClass\\DemoInClassOne.csproj",
+        "projectPath": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineering\\Csharp1\\Hoofdstuk6\\DemoInClass\\DemoInClassOne.csproj",
         "packagesPath": "C:\\Users\\jaanr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineeringCsharpOne\\Hoofdstuk6\\DemoInClass\\obj\\",
+        "outputPath": "C:\\Users\\jaanr\\Documents\\GitHub\\SoftwareEngineering\\Csharp1\\Hoofdstuk6\\DemoInClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
