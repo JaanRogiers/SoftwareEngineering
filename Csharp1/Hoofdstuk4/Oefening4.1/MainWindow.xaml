@@ -5,13 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Oefening4._1"
         mc:Ignorable="d"
-        Title="Oefening4.1" Height="450" Width="800">
+        Title="Oefening4.1" Height="260" Width="390">
     <Grid>
-        <Label Content="Z1:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 10, 0, 0" Width="30" Height="30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-        <Label Content="Z2:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 50, 0, 0" Width="30" Height="30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-        <Label Content="Z3:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 90, 0, 0" Width="30" Height="30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-        <TextBox Name="z1TextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40, 10, 0, 0" Width="100" Height=" 30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-        <TextBox Name="z2TextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40, 50, 0, 0" Width="100" Height=" 30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-        <TextBox Name="z3TextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40, 90, 0, 0" Width="100" Height=" 30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Name="z1Label" Content="Z1:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 10, 0, 0" Width="30" Height="30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Name="z2Label" Content="Z2:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 50, 0, 0" Width="30" Height="30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Name="z3Label" Content="Z3:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 90, 0, 0" Width="30" Height="30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Name="volumeLabel" Content="Volume: 0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 120, 0, 0" Width="130" Height="30" VerticalContentAlignment="Center" HorizontalContentAlignment="Left"/>
+        <TextBox Name="z1TextBox" Text="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40, 10, 0, 0" Width="100" Height=" 30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <TextBox Name="z2TextBox" Text="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40, 50, 0, 0" Width="100" Height=" 30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <TextBox Name="z3TextBox" Text="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40, 90, 0, 0" Width="100" Height=" 30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Canvas Name="canvas" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160, 10, 0, 0" Width="200" Height="200" Background="DarkGray"/>
     </Grid>
 </Window>
